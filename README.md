@@ -1,4 +1,4 @@
-# Claude.AI_Code
+# Claude_Code
 
 Notes and write-ups from work done with Claude Code.
 
